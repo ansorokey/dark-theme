@@ -14,3 +14,5 @@ Hover over the landing page image on the right side to view the hover effect.
 Click the sun/moon icon to toggle between light and dark page modes.
 
 ## Future Features
+- Additional color themes
+- Buttons and anchors link to portions of the webpage
