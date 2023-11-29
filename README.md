@@ -7,6 +7,7 @@ This project was amde by following [How To Make Website DARK MODE | Dark Theme W
 - JavaScript, HTML, CSS
 - FontAwesome
 - Transformations/Transitions
+- CSS Variables
 
 ## How To Use
 Hover over the landing page image on the right side to view the hover effect.
